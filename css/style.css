@@ -29,7 +29,7 @@ body {
     height: 100vh;
     color: #F6F6F6;
     font-family: 'Montserrat', sans-serif;
-   background-color: #252425;
+    background-image: url('../imagens/fundo.jpg');
 }
 
 
